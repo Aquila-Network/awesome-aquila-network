@@ -41,7 +41,7 @@ Official implementation of different components in Aquila Network maintained by 
 
 ### client libraries
 
-[CLI]()
+[CLI]
 
 [Javascript](https://github.com/Aquila-Network/AquilaJS)
 
