@@ -7,13 +7,13 @@
 
 ## Contents
 
-- [Technical Specifications]()
+- [Technical Specifications](#technical-specifications)
 
-- [Official implementations](#section)
+- [Official implementations](#official-implementations)
 
-- [Community Implementations]()
+- [Community Implementations](#community-implementations)
 
-- [Learning](#another-section)
+- [Learning](#learning)
 
   
 
