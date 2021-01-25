@@ -2,7 +2,7 @@
 
 > A curated list of Aquila Network official repositories, client libraries, ecosystem projects, boilerplates, tutorials, learning and more..
 
-
+<a href="url"><img src="https://user-images.githubusercontent.com/19545678/105740069-d0d33800-5f5e-11eb-8475-6baf406b3b5d.gif" alt="aquila network logo" align="left" height="200" width="200" ></a>
 
 
 ## Contents
