@@ -41,7 +41,7 @@ Official implementation of different components in Aquila Network maintained by 
 
 [AquilaX](https://github.com/Aquila-Network/AquilaX-CE) - Aquila Network exploration component
 
-### client libraries
+### AquilaDB client libraries
 
 [CLI]
 
