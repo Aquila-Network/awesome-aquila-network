@@ -1,5 +1,7 @@
 # Awesome Aquila Network [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Official website: [Aquila Network - Decentralized Content Discovery Network](https://aquila.network)
+
 > A curated list of Aquila Network official repositories, client libraries, ecosystem projects, boilerplates, tutorials, learning and more..
 
 <a href="url"><img src="https://user-images.githubusercontent.com/19545678/105740069-d0d33800-5f5e-11eb-8475-6baf406b3b5d.gif" alt="aquila network logo" align="left" height="200" width="200" ></a>
@@ -37,7 +39,7 @@ Official implementation of different components in Aquila Network maintained by 
 
 [AquilaHub](https://github.com/Aquila-Network/AquilaHub) - Knowledge compression component (ML models management)
 
-[AquilaX](https://aquila.network) - Aquila Network exploration component
+[AquilaX](https://github.com/Aquila-Network/AquilaX-CE) - Aquila Network exploration component
 
 ### client libraries
 
@@ -46,6 +48,12 @@ Official implementation of different components in Aquila Network maintained by 
 [Javascript](https://github.com/Aquila-Network/AquilaJS)
 
 [Python](https://github.com/Aquila-Network/AquilaPy)
+
+### AquilaX Browser Addons
+[Source code](https://github.com/Aquila-Network/AquilaX-browser-extension) - Source code of AquilaX browser extensions all in one place
+#### Direct install:
+- [Chrome](https://chrome.google.com/webstore/detail/aquilax/albdahjdcmldbcpjmbnbcbckgndaibnk) - Supports all chromium variants such as Chrome, Chromium, Brave, Edge etc.
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aquilax/) - Supports all Firefox variants
 
 
 
