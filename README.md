@@ -66,13 +66,13 @@ Here is a bird's eye view of every component that fit into Aquila Network
 
 Official implementation of different components in Aquila Network maintained by Aquila Network core team.
 
-[AquilaDB](https://github.com/Aquila-Network/AquilaDB) - Data storage and management component
+[Aquila DB](https://github.com/Aquila-Network/AquilaDB) - Data storage and management component
 
-[AquilaPort](https://github.com/Aquila-Network/AquilaPort) - Network protocols and replication component
+[Aquila Port](https://github.com/Aquila-Network/AquilaPort) - Network protocols and replication component
 
-[AquilaHub](https://github.com/Aquila-Network/AquilaHub) - Knowledge compression component (ML models management)
+[Aquila Hub](https://github.com/Aquila-Network/AquilaHub) - Knowledge compression component (ML models management)
 
-[AquilaX](https://github.com/Aquila-Network/AquilaX-CE) - Aquila Network exploration component
+[Aquila X](https://github.com/Aquila-Network/AquilaX-CE) - Aquila Network exploration component
 
 ### AquilaDB client libraries
 
