@@ -1,6 +1,29 @@
-# Awesome Aquila Network [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <a href="https://aquila.network">
+    <img
+      src="https://user-images.githubusercontent.com/19545678/133918727-5a37c6be-676f-427b-8c86-dd50f58d1287.png"
+      alt="Aquila Network Logo"
+      height="64"
+    />
+  </a>
+  <br />
+  <p>
+    <h3>
+      <b>
+        Awesome Aquila Network
+      </b>
+    </h3>
+  </p>
+  <p>
+    <b>
+      Everyting you need to know about Aquila Network Ecosystem
+    </b>
+  </p>
+  <br/>
+</div>
 
 Official website: [Aquila Network - Decentralized Content Discovery Network](https://aquila.network)
+
 
 > A curated list of Aquila Network official repositories, client libraries, ecosystem projects, boilerplates, tutorials, learning and more..
 
