@@ -90,8 +90,10 @@ Official implementation of different components in Aquila Network maintained by 
 ### AquilaX Browser Addons
 [Source code](https://github.com/Aquila-Network/AquilaX-browser-extension) - Source code of AquilaX browser extensions all in one place
 #### Direct install:
-- [Chrome](https://chrome.google.com/webstore/detail/aquilax/albdahjdcmldbcpjmbnbcbckgndaibnk) - Supports all chromium variants such as Chrome, Chromium, Brave, Edge etc.
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aquilax/) - Supports all Firefox variants
+[<img height=46px src="https://user-images.githubusercontent.com/68724239/111738541-92476300-88a7-11eb-8444-3f2baa515b9c.png"/>](https://chrome.google.com/webstore/detail/aquila-x/albdahjdcmldbcpjmbnbcbckgndaibnk) - Supports all chromium variants such as Chrome, Chromium, Brave, Edge etc.
+
+
+[<img height=46px src="https://user-images.githubusercontent.com/19545678/137582002-85df2d6f-2ad5-43ca-a673-04f4925b8c41.png"/>](https://addons.mozilla.org/en-US/firefox/addon/aquilax/) - Supports all Firefox variants
 
 
 
