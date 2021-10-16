@@ -40,7 +40,12 @@ Official website: [Aquila Network - Decentralized Content Discovery Network](htt
 
 - [Learning](#learning)
 
-  
+## Single command install to Get Started
+If `docker` and `docker-compose` are installed in your machine, use below command to setup everything:
+```
+wget -O - https://raw.githubusercontent.com/Aquila-Network/AquilaX-CE/main/setup_aquilax.sh | /bin/bash
+```
+for more details, check [Aquila X CE repository](https://github.com/Aquila-Network/AquilaX-CE#install)
 
 ## Technical Specifications
 
