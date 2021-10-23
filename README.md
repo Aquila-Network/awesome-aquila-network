@@ -26,7 +26,27 @@ Official website: [Aquila Network - Decentralized Content Discovery Network](htt
 
 > A curated list of Aquila Network official repositories, client libraries, ecosystem projects, boilerplates, tutorials, learning and more..
 
-[![discord chatroom for discussions](https://www.freeiconspng.com/minicovers/flat-discord-material-like-icon--2.png)](https://discord.gg/5YP7zHS)
+<a href="https://discord.gg/5YP7zHS">
+    <img
+      src="https://user-images.githubusercontent.com/19545678/138563272-dbc42314-df34-4063-9994-615319485e5a.png"
+      alt="Discord Logo"
+      height="64"
+    />
+  </a>
+  <a href="https://medium.com/a-mma">
+    <img
+      src="https://user-images.githubusercontent.com/19545678/138563265-79686a2c-1ecc-48e1-be7d-9bda57a7249d.png"
+      alt="Medium Logo"
+      height="64"
+    />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcghHPcdlh0V5TdQfLHjhOA">
+    <img
+      src="https://user-images.githubusercontent.com/19545678/138563183-de21e1d8-c6be-40b9-8b13-17f2ff773ef8.png"
+      alt="Youtube Logo"
+      height="64"
+    />
+  </a>
 
 <a href="url"><img src="https://user-images.githubusercontent.com/19545678/105740069-d0d33800-5f5e-11eb-8475-6baf406b3b5d.gif" alt="aquila network logo" align="left" height="200" width="200" ></a>
 
